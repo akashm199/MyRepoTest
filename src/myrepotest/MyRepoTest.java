@@ -26,6 +26,6 @@ public class MyRepoTest {
 
     private static void acgu() {
         System.out.println("Test 1");
-        System.out.println("Wrong things,");
+        System.out.println("Wrong things, i a");
     }
 }
