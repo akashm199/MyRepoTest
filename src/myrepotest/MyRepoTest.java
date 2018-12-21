@@ -17,9 +17,13 @@ public class MyRepoTest {
     public static void main(String[] args) {
         // TODO code application logic here
         print();
+        acgu();
     }
 
     private static void print() {
+        System.out.println("Test 1");
+    }
+    private static void acgu() {
         System.out.println("Test 1");
     }
 }
