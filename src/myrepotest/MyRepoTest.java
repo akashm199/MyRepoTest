@@ -18,6 +18,7 @@ public class MyRepoTest {
         // TODO code application logic here
         print();
         acgu();
+        acgu();
         print();
     }
 
