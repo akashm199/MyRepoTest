@@ -23,7 +23,9 @@ public class MyRepoTest {
     private static void print() {
         System.out.println("Test 1");
     }
+
     private static void acgu() {
         System.out.println("Test 1");
+        System.out.println("Wrong things,");
     }
 }
